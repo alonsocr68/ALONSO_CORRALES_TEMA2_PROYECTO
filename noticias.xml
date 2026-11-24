@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Noticias de Fórmula 1 y WEC</title>
-    <link>https://github.com/alonsocr68/ALONSO_CORRALES_TEMA2_PROYECTO/projects</link>
-    <description>Noticias y curiosidades sobre la Fórmula 1 y el Campeonato del Mundo de Resistencia.</description>
+    <title>Noticias de Fórmula 1</title>
+    <link>https://www.elconfidencial.com/deportes/formula-1/2026-11-01/alonso-sainz-hamilton-verstappen-antonelli-formula-1-gp-mexico_4457304/</link>
+    <description>Noticias y curiosidades sobre la Fórmula 1.</description>
     <language>es</language>
 
     <item>
@@ -15,14 +15,14 @@
 
     <item>
       <title>Las 24 Horas de Le Mans: el gran reto de la resistencia</title>
-      <link>https://github.com/alonsocr68/ALONSO_CORRALES_TEMA2_PROYECTO/projects</link>
+      <link>https://www.race.es/revista-autoclub/estilo/deportes/el-reto-de-las-24-horas-de-le-mans/</link>
       <description>Los coches y los pilotos se turnan durante un día entero sin parar.</description>
       <pubDate>Sat, 07 Nov 2026 12:00:00 +0100</pubDate>
     </item>
 
     <item>
-      <title>Hypercar y LMGT3: las dos clases del WEC</title>
-      <link>https://github.com/alonsocr68/ALONSO_CORRALES_TEMA2_PROYECTO/projects</link>
+      <title>Peugeot abandona el WEC de manera inmediata</title>
+      <link>https://as.com/motor/peugeot-abandona-el-wec-de-manera-inmediata-f202611-n/</link>
       <description>En una misma carrera conviven coches muy rápidos y otros más parecidos a los de calle.</description>
       <pubDate>Thu, 05 Nov 2026 09:00:00 +0100</pubDate>
     </item>
